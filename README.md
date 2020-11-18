@@ -13,6 +13,10 @@
 <td>computer networking </td>
 <td>simple two way communication Between server and client in java </td>
 </tr>
+ <tr>
+<td>Os-Operating System </td>
+<td>Multilevel queue sheduling algorithm,Round robin scheduling algorithm </td>
+</tr>
 </table>
 
 
