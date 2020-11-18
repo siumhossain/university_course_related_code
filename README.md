@@ -3,7 +3,7 @@
 <p>please,CSE or CS course related code or notes upload here.So that it will easier for most of the students complete their assignment without hesitation 😉</p>
 <p>So make pull request as mush as you can💘</p>
 
-*highly appreciate if you include output screenshoot*👁️
+*highly appreciate if you include output screenshot*👁️
 
 ## Thank you💌
 <table>
