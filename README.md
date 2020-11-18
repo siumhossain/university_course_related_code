@@ -15,7 +15,7 @@
 </tr>
  <tr>
 <td>Os-Operating System </td>
-<td>Multilevel que sheduling algorithm,Round robin scheduling algorithm </td>
+<td>Multilevel queue sheduling algorithm,Round robin scheduling algorithm </td>
 </tr>
 </table>
 
